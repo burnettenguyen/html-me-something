@@ -7,12 +7,12 @@ html {
   justify-content: center;
 }
 
-header {
-  font-size: 2em;
+#about {
+  font-size: 3em;
   text-align: center;
 }
 
-article {
+.biography {
   background-color: #4700b3;
   font-family: 'Assistant', sans-serif;
   font-size: 1.5em;
